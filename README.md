@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**Bobleyl/Bobleyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi I'm Bo! 👋
 
 - 🔭 I’m currently working in Flutter, Dart, Java, Javascript, Python
 - 💬 Ask me about Bleyl Dev and Flutter
