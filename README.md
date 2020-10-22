@@ -1,8 +1,8 @@
-### Hi I'm Bo! 👋
+### Hi I'm Bo! Most people know me from my Flutter channel: Bleyl Dev👋
 
 - 🔭 I’m currently working in Flutter, Dart, Java, Javascript, Python
 - 💬 Ask me about Bleyl Dev and Flutter
-- 📫 How to reach me: @BleylDev on Twitter or bleyldev@gmail.com
+- 📫 How to reach me: @BleylDev on Twitter, bleyldev@gmail.com or join the Bleyl Dev discord (link found at https://bleyl.dev)
 - 📓 Trying to get better about public repos.  Most of my work I keep private, but feel free to ask what I'm currently working on!
 
 
