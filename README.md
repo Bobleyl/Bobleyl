@@ -4,7 +4,6 @@
 - 💬 Ask me about Bleyl Dev and Flutter
 - 📫 How to reach me: @BleylDev on Twitter, bleyldev@gmail.com or join the Bleyl Dev discord (link found at https://bleyl.dev)
 - 📓 Trying to get better about public repos.  Most of my work I keep private, but feel free to ask what I'm currently working on!
-- 🎮 Really into playing Screeps right now!  I typically will stream as I play on [twitch](https://www.twitch.tv/bleyldev)! Check out my [Screeps](https://github.com/Bobleyl/Screeps) repo below!
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Bobleyl&theme=algolia&show_icons=true&count_private=true)
