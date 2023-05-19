@@ -1,5 +1,5 @@
 ### Hi I'm Bo! Most people know me from my Flutter channel: Bleyl Dev👋
-![Twitter Follow](https://img.shields.io/twitter/follow/bleyldev?label=Followe%20Me&style=social) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIV0tE4cC3Ufk44-KVZqv7w?label=BleylDev%20Subs&style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCIV0tE4cC3Ufk44-KVZqv7w?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/bleyldev?label=Follow&style=social) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIV0tE4cC3Ufk44-KVZqv7w?label=BleylDev%20Subs&style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCIV0tE4cC3Ufk44-KVZqv7w?style=social)
 
 - 🔭 I’m currently working in Flutter, Dart, Java, Javascript
 - 💬 Ask me about Bleyl Dev and Flutter
