@@ -1,7 +1,7 @@
 ### Hi I'm Bo! Most people know me from my Flutter channel: Bleyl Dev👋
 ![Twitter Follow](https://img.shields.io/twitter/follow/bleyldev?label=Follow&style=social) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIV0tE4cC3Ufk44-KVZqv7w?label=BleylDev%20Subs&style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCIV0tE4cC3Ufk44-KVZqv7w?style=social)
 
-- 🔭 I’m currently working in Flutter, Dart, Java, Javascript
+- 🔭 I’m currently working in Flutter, Dart, C#, Javascript
 - 💬 Ask me about Bleyl Dev and Flutter
 - 📫 How to reach me: @BleylDev on Twitter, bleyldev@gmail.com
 - 📓 Trying to get better about public repos.  Most of my work I keep private, but feel free to ask what I'm currently working on!
